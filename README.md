@@ -1,0 +1,2 @@
+# mineriaPython
+mineria de datos
